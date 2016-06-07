@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC_APLICATION</string>
+    <string name="texto1">Introduce tu peso en KG: </string>
+    <string name="texto2">Introduce tu estatura en M:</string>
+    <string name="botonCalcular">CALCULAR</string>
+    <string name="botonLimpiar">LIMPIAR</string>
+    <string name="mensaje">El índice de masa corporal es:</string>
+    <string name="indicador_estado">Estado nutriconal:</string>
+    <string name="texto_indicador_nutricional"></string>
+</resources>
